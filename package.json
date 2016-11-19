@@ -1,0 +1,22 @@
+{
+  "name": "multimedios",
+  "version": "1.0.0",
+  "description": "prueba de js",
+  "main": "index.js",
+  "scripts": {
+    "test": "example"
+  },
+  "repository": {
+    "type": "git",
+    "url": "gersonpincheira"
+  },
+  "keywords": [
+    "none"
+  ],
+  "author": "gerson",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "devDependencies": {}
+}
